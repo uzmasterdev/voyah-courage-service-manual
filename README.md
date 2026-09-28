@@ -4,9 +4,6 @@
 ремонту электромобиля Voyah Courage 2024») с китайского оригинала: 965 страниц, 13 разделов, структура и нумерация
 оригинала сохранены.
 
-В этом репозитории лежит только перевод с картинками. Основная база знаний о машине (ТТХ, журнал живой машины, софт)
-находится в [voyah-courage-four-wheel-drive-global-edition](https://github.com/uzmasterdev/voyah-courage-four-wheel-drive-global-edition).
-
 ## Происхождение
 
 | | |
@@ -46,11 +43,6 @@
 - Общие для всех процедуры (кузов, салон, электрика, ADAS, климат) относятся к нам полностью, если в тексте нет
   отдельной оговорки по версии.
 
-Правила разграничения поколений описаны в
-[`docs/main.md` основного репозитория](https://github.com/uzmasterdev/voyah-courage-four-wheel-drive-global-edition/blob/master/docs/main.md).
-Оснащение конкретно нашей машины определяют
-[спецлист](https://github.com/uzmasterdev/voyah-courage-four-wheel-drive-global-edition/blob/master/docs/spec-sheet-77kwh-global.md)
-и [журнал живой машины](https://github.com/uzmasterdev/voyah-courage-four-wheel-drive-global-edition/blob/master/experience/README.md).
 Если в мануале описан узел, это ещё не значит, что он стоит у нас: мануал охватывает все комплектации (например,
 пневмоподвеску, развлекательные экраны в подголовниках).
 
